@@ -1,3 +1,3 @@
 # 08-HelloGitHub
 
-Ein erstes Objekt um zu üben
+Ein erstes Objekt um zu üben der Anwendung
